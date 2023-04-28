@@ -12,6 +12,7 @@ body {
   
   .container {
     text-align: center;
+    max-width: 800px;
   }
   
   h1 {
@@ -43,4 +44,16 @@ body {
     font-size: 1.5rem;
     margin-top: 1rem;
   }
+  
+  /* Add styling for the "About Me" section */
+  .about-me {
+    margin-top: 2rem;
+    text-align: left;
+  }
+  
+  .about-me h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  /* End "About Me" section styling */
   
