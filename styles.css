@@ -1,0 +1,46 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #000;
+    color: #0f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    font-size: 1.2rem;
+  }
+  
+  button {
+    background-color: #0f0;
+    border: 2px solid #0f0;
+    border-radius: 5px;
+    color: #000;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  button:hover {
+    background-color: #000;
+    color: #0f0;
+  }
+  
+  .password-display {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  
